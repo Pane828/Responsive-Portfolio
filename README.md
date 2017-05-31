@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive-Portfolio-EP
+# Basic-Portfolio
+Basic-Portfolio EP
